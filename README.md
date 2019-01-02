@@ -1,5 +1,4 @@
 # Machine-learning-Intro
-Python machine learning codes for beginners 
 ............
 Data set are collected from UCI respiratory.
 *link for breast cancer data set: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
