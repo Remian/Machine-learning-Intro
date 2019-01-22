@@ -5,7 +5,3 @@ data.dat -LVougHJVxdW_80uGkcq
 data.dat -LVoumTseZainB94vSmn
 data.dat -LVoxpH4pESJuvLl7mW6
 data.dat -LVoyKh0CeDpyqiEi6vK
-data.dat -LVp3uDrwlXLefpNvoMa
-data.dat -LVp4Et9qTKVolyxWO0e
-data.dat -LVp4n80AoNkbWSn-_fI
-data.dat -LVp5I2dm572hm0T0jrz
