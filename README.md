@@ -18,3 +18,8 @@ pd_speech_features.csv is the dataset for parkinson disease, parkinson_patient.c
 blood.txt is the dataset for blood transfusion, bloodPatient.txt is the sample data for prediction.
 BreastCancerData.txt is the data for breast cancer patients, BreastCancerPatient.txt is the sample data for prediction
 key.txt contains information to upload data to the firebase server.
+
+
+dbhandler.py - code for firebase
+keys.txt - data path to firebase
+data.dat - datafile
